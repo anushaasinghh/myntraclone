@@ -41,10 +41,5 @@ I have used React, Chakra, JS, Html, Css to made this project.
 
 <hr>
 
-# Collaborators (Team members):-
-- Devendra Singh(Team Lead)
-- Prince Sharma
-- Ravi Kumar 
-- Ruchi Priya Kumari
 
 - ## <span style="color:green"> Thank You </span>
